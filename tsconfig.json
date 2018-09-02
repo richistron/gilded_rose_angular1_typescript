@@ -1,9 +1,8 @@
 {
-  "strict": true,
   "compilerOptions": {
+    "target": "es6",
+    "allowJs": true,
     "module": "es6",
-    "target": "es5",
-    "sourceMap": true,
-    "allowJs": true
+    "strict": true
   }
 }

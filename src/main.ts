@@ -1,2 +1,3 @@
+import app from './app/index'
 
-console.log('hola')
+app.init()
