@@ -1,0 +1,11 @@
+{
+  "name": "gilded_rose_angular1_ts",
+  "version": "0.0.1",
+  "description": "gilded rose kata typescript angular 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Rivas <richistron@gmail.com>",
+  "license": "MIT"
+}
