@@ -8,9 +8,8 @@ interface __bindings__ {
 interface __options__ {
   template: string
   bindings?: __bindings__
-  controller?: string[]
+  controller?: any[]
 }
-
 
 interface __createComponent__ {
   (name : string, deps : string[]) : __component__
